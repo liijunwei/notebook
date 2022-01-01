@@ -1,0 +1,1 @@
+"if i have a decision, and one of the choices is gonna make me more independent, and the other would make me dependent, I'll always choose the one that makes me independent."

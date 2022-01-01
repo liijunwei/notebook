@@ -1,0 +1,16 @@
+# only ignore "TODO.md" under root dir
+/TODO.md
+# ignore all "TODO.md"
+# TODO.md
+tmp/
+tmp.md
+*tmp.md
+tmp.json
+*tmp.json
+log/
+*.swp
+*.swo
+*.numbers
+*.docx
+*.xlsx
+*.key
