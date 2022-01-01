@@ -4,7 +4,7 @@ Editor+Comline+TODO-OK Workflow
 
 # Important Notice
 
-**Pushing notebook to public repo is a BAD IDEA, since when this workflow gets handy you'll inevitably write down important/sensitive info and they'll all be logged into `git`.**
+**Pushing *Your Notebook* to public repo is a BAD IDEA, since when this workflow gets handy you'll inevitably write down important/sensitive info and they'll all be logged into `git`.**
 
 # Core
 
@@ -12,7 +12,7 @@ Editor+Comline+TODO-OK Workflow
 + workflow + template + crontab
 + mark your task as TODO/OK
 + note on what you are doing, what you'are planning... and prioritize them visually
-+ fuzzy search filename with keyword using texteditor(cmd/ctrl+p) or [fzf](https://github.com/junegunn/fzf)
++ fuzzy search with keywords using texteditor(cmd/ctrl+p) or [fzf](https://github.com/junegunn/fzf)
     + **Naming is vital**
     + **Naming is vital**
     + **Naming is vital**
