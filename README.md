@@ -2,6 +2,8 @@
 
 Editor+Cmdline+TODO-OK Workflow
 
+Personal use since `2020-07-18 22:51`, 18290 commits until `2022-01-28 22:26`, experience value for *auto commit frequency* is 10min/commit.
+
 # Important Notice
 
 **Pushing *Your Notebook* to public repo is a BAD IDEA, since when this workflow gets handy you'll inevitably write down important/sensitive info and they'll all be logged into `git`.**
