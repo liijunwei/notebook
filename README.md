@@ -1,6 +1,6 @@
 # Intro
 
-Editor+Cmdline+TODO-OK Workflow
+[Editor+Cmdline+TODO-OK Workflow](http://blog.bxzy.top/2021/09/05/effiency-sharing/)
 
 Personal use since `2020-07-18 22:51`, 18290 commits until `2022-01-28 22:26`, experience value for *auto commit frequency* is 10min/commit.
 
