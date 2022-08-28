@@ -27,9 +27,9 @@ Personal use since `2020-07-18 22:51`, 18290 commits until `2022-01-28 22:26`, e
 
 # Example
 
-+ [cronatb generate daily worklog](efficiency/self_use_tools/create_worklog.daily.sh)
-+ [shell script generate task folder from template](efficiency/self_use_tools/init_task_folder.sh)
-    + add `source $NOTEBOOK_PATH/efficiency/self_use_tools/init_task_folder.sh` to your `.bashrc` or `.zshrc` ...
++ [cronatb generate daily worklog](tools/create_worklog.daily.sh)
++ [shell script generate task folder from template](tools/init_task_folder.sh)
+    + add `source $NOTEBOOK_PATH/tools/init_task_folder.sh` to your `.bashrc` or `.zshrc` ...
     + and you get the init_task_folder helper
     + then every task will have a sepreate workspace
     + every task start from the "README.md" file

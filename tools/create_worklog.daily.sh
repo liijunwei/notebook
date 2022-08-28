@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # manually trigger:
-# bash efficiency/self_use_tools/create_worklog.daily.sh
+# bash tools/create_worklog.daily.sh
 
-# */2 5-10 * * * /bin/bash -l -c 'cd $NOTEBOOK_PATH && bash efficiency/self_use_tools/create_worklog.daily.sh >> log/create_worklog.log'
+# */2 5-10 * * * /bin/bash -l -c 'cd $NOTEBOOK_PATH && bash tools/create_worklog.daily.sh >> log/create_worklog.log'
 
 cd $NOTEBOOK_PATH
 
