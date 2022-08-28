@@ -12,12 +12,10 @@ Personal use since `2020-07-18 22:51`, 18290 commits until `2022-01-28 22:26`, e
 
 + cmdline + texteditor + shellscript(or other cli)
 + workflow + template + crontab
++ establish file/folder naming conventions and follow them
 + mark your task as TODO/OK
-+ note on what you are doing, what you'are planning... and **prioritize them visually**
-+ fuzzy search with keywords using texteditor(cmd/ctrl+p) or [fzf](https://github.com/junegunn/fzf)
-    + **Naming is vital**
-    + **Naming is vital**
-    + **Naming is vital**
++ **prioritize your TODO/OKs visually**
++ benefit from fuzzy search feature provided by texteditor(cmd/ctrl+p) or [fzf](https://github.com/junegunn/fzf)
 + duplication is acceptable
 + all changes are auto commited
 ```sh
@@ -47,3 +45,13 @@ NOTEBOOK_PATH=/path/to/your/notebook
 + Seperate your life and work notebook repo
 + Use tig filename/foldername to view the history
 + Naming: use dot or dash to seperate words, either one is on, but stay consistent
+
+# Credits
+
+https://github.com/ery/suitup
+
+I learned a lot from him(the workflow, the comline+editor mindset, coding tricks, shell scipts management...)
+
+Huge thanks to him
+
+
