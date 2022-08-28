@@ -39,12 +39,12 @@ NOTEBOOK_PATH=/path/to/your/notebook
 # Tips
 
 + Setup your dotfile repo and isolate from notebook
-+ Find patterns and make template dirs, standardize/automate your workflow with shell(...), you may will benefit from automation and earn more efficient hours
++ Find patterns, standardize/automate your workflow with automation
     + ["Spend 30 minutes each day improving something about your process (automate the thing you repeat the most) or environment (editor, shell, OS, etc)." --- Zenspider](https://www.zenspider.com/ruby/2012/09/career-advice.html)
 + Git provides rich information, you may develop scripts to analyze your `notebook` repo
 + Seperate your life and work notebook repo
-+ Use tig filename/foldername to view the history
-+ Naming: use dot or dash to seperate words, either one is on, but stay consistent
++ Use `tig filename/foldername` to view history
++ Use dot or dash to seperate words while naming, either one is ok, just stay consistent
 
 # Credits
 
