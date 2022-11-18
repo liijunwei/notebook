@@ -18,7 +18,9 @@ Personal use since `2020-07-18 22:51`, 18290 commits until `2022-01-28 22:26`, e
 + benefit from fuzzy search feature provided by texteditor(cmd/ctrl+p) or [fzf](https://github.com/junegunn/fzf)
 + duplication is acceptable
 + all changes are auto commited
-```sh
+```bash
+crontab -e
+
 NOTEBOOK_PATH=/path/to/your/notebook
 
 */10 * * * * /bin/bash -l -c "cd $NOTEBOOK_PATH && git pull >> /dev/null && git add . && git commit -m 'Commit automatically by crontab' >> /dev/null 2>> log/cron_commit.log"
@@ -38,19 +40,19 @@ NOTEBOOK_PATH=/path/to/your/notebook
 
 # Tips
 
-+ Setup your dotfile repo and isolate from notebook
-+ Find patterns, standardize/automate your workflow with automation
++ setup your own dotfile repo and isolate from notebook
++ find patterns, standardize/automate your workflow with automation
     + ["Spend 30 minutes each day improving something about your process (automate the thing you repeat the most) or environment (editor, shell, OS, etc)." --- Zenspider](https://www.zenspider.com/ruby/2012/09/career-advice.html)
-+ Git provides rich information, you may develop scripts to analyze your `notebook` repo
-+ Seperate your life and work notebook repo
-+ Use `tig filename/foldername` to view history
-+ Use dot or dash to seperate words while naming, either one is ok, just stay consistent
++ git provides rich information, you may develop scripts to analyze your `notebook` repo
++ seperate your life and work notebook repo
++ use `tig filename/foldername` to view history
++ use dot or dash to seperate words while naming, either one is ok, just stay consistent
 
 # Credits
 
 https://github.com/ery/suitup
 
-I learned a lot from him(the workflow, the comline+editor mindset, coding tricks, shell scipts management...)
+I learned a lot from my first career mentor/manager(the workflow, the comline+editor mindset, coding tricks, shell scipts management...)
 
 Huge thanks to him
 

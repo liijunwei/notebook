@@ -10,7 +10,8 @@
 `pr review`
 
 This pr xxxx
-pls help review when you have a moment :orz:
+pls help me review when you have a moment :orz:
+pls feel free to left any comments, and I'll take them seriously
 
 prlink
 ```
